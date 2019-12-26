@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33a21835-1864-4cab-8fce-52654a95549e" name="Default Changelist" comment="" />
+    <list default="true" id="33a21835-1864-4cab-8fce-52654a95549e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1VSrYMkVOTWUn6abJsNXHmqkRSG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -107,11 +112,28 @@
       <workItem from="1577262563240" duration="305000" />
       <workItem from="1577262885089" duration="143000" />
       <workItem from="1577263045684" duration="9438000" />
+      <workItem from="1577272713506" duration="263000" />
+      <workItem from="1577321912551" duration="945000" />
     </task>
+    <task id="LOCAL-00001" summary="initialized">
+      <created>1577272826626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577272826626</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialized" />
+    <option name="LAST_COMMIT_MESSAGE" value="initialized" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="181" key="#Project_Structure" timestamp="1577257491175">
@@ -130,10 +152,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="309" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577263770534" />
+    <state x="521" y="120" key="CommitChangelistDialog2" timestamp="1577272824156">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="521" y="120" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1577272824156" />
     <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1577262515095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1577262515095" />
+    <state x="810" y="415" key="Github.ShareDialog" timestamp="1577272881309">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="415" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577272881309" />
     <state width="1860" height="22" key="GridCell.Tab.0.bottom" timestamp="1577272693771">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -170,6 +200,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="97" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577272692336" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1577272837645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1577272837645" />
     <state x="690" y="290" key="extract.method.dialog" timestamp="1577264270334">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

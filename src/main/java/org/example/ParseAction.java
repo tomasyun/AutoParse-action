@@ -22,7 +22,6 @@ public class ParseAction {
     }
 }
 
-
 class SAXDemoHandel extends DefaultHandler {
 
     @Override
